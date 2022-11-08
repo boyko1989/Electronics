@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "c837156c1118fa58",
+    "type": "split",
+    "children": [
+      {
+        "id": "202606ae51aa54f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d89750bb95f0fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-base/Инструментарий.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f9010457cb6eea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff49367c40befe10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "850705ba46f5f084",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05957982fe060b56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "807b7433dee4b974",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "def0b4630a36fffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9573c62828a51611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de8578d8248f0de0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-base/Инструментарий.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e66ee969b3f76d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-base/Инструментарий.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5408f9dde7d268dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19003e0e7802667e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-base/Инструментарий.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d89750bb95f0fb0",
+  "lastOpenFiles": [
+    "00-base/Базовые задачи.md",
+    "00-base/Инструментарий.md",
+    "README.md",
+    "00-base.md"
+  ]
+}
